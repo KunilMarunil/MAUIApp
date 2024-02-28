@@ -1,0 +1,4 @@
+H:\Testing MAUI\Testing\Testing\bin\Release\net8.0-android\publish\com.companyname.testing-Signed.aab
+H:\Testing MAUI\Testing\Testing\bin\Release\net8.0-android\publish\com.companyname.testing.aab
+H:\Testing MAUI\Testing\Testing\bin\Release\net8.0-android\publish\com.companyname.testing-Signed.apk
+H:\Testing MAUI\Testing\Testing\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll
