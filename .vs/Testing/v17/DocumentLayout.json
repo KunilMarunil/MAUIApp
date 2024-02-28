@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Testing MAUI\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4086D1A9-672B-41E5-858B-A6383B87FD71}|Testing\\Testing.csproj|h:\\testing maui\\testing\\testing\\testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4086D1A9-672B-41E5-858B-A6383B87FD71}|Testing\\Testing.csproj|solutionrelative:testing\\testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4086D1A9-672B-41E5-858B-A6383B87FD71}|Testing\\Testing.csproj|h:\\testing maui\\testing\\testing\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4086D1A9-672B-41E5-858B-A6383B87FD71}|Testing\\Testing.csproj|solutionrelative:testing\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4086D1A9-672B-41E5-858B-A6383B87FD71}|Testing\\Testing.csproj|h:\\testing maui\\testing\\testing\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4086D1A9-672B-41E5-858B-A6383B87FD71}|Testing\\Testing.csproj|solutionrelative:testing\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testing.csproj",
+              "DocumentMoniker": "H:\\Testing MAUI\\Testing\\Testing\\Testing.csproj",
+              "RelativeDocumentMoniker": "Testing\\Testing.csproj",
+              "ToolTip": "H:\\Testing MAUI\\Testing\\Testing\\Testing.csproj",
+              "RelativeToolTip": "Testing\\Testing.csproj",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T07:35:24.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "H:\\Testing MAUI\\Testing\\Testing\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Testing\\MainPage.xaml.cs",
+              "ToolTip": "H:\\Testing MAUI\\Testing\\Testing\\MainPage.xaml.cs",
+              "RelativeToolTip": "Testing\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T04:28:49.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "H:\\Testing MAUI\\Testing\\Testing\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Testing\\MainPage.xaml",
+              "ToolTip": "H:\\Testing MAUI\\Testing\\Testing\\MainPage.xaml",
+              "RelativeToolTip": "Testing\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-26T04:25:01.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
